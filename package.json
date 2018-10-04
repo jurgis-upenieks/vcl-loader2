@@ -1,0 +1,42 @@
+{
+  "_from": "github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+  "_id": "vcl-loader@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/vcl-loader",
+  "_phantomChildren": {
+    "big.js": "3.2.0",
+    "emojis-list": "2.1.0",
+    "json5": "0.5.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "vcl-loader@github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+    "name": "vcl-loader",
+    "escapedName": "vcl-loader",
+    "rawSpec": "github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+    "saveSpec": "github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+    "fetchSpec": null,
+    "gitCommittish": "e5e05580fec81bf273b267812ab0ed2dfd30f22e"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+  "_spec": "vcl-loader@github:vcl/loader#e5e05580fec81bf273b267812ab0ed2dfd30f22e",
+  "_where": "/home/jurgisupenieks/source/roracgui",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "## Usage",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vcl-loader",
+  "peerDependencies": {
+    "vcl-preprocessor": "^0.1.1"
+  },
+  "version": "0.0.1"
+}
